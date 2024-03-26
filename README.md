@@ -1,2 +1,1 @@
-# hockey
-hii
+# Migthy Ducks Hockey League
